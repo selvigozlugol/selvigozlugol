@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @selvigozlugol
+- 👀 I’m interested in Computer Engineering
+- 🌱 I’m currently learning Python and Java
+- 📫 How to reach me selvisongulgozlugol@gmail.com
